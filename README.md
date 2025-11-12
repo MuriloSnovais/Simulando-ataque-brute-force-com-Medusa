@@ -25,3 +25,4 @@
 
 ![Nmap — portas e serviços identificados](images/Escaneando%20maquina%20vunenavel%20com%20NMAP.png "Nmap scan")
 *Figura 2 — Resultado do scan Nmap (ex.: portas 21, 22, 80, 139, 445 com versões de serviços).*
+
