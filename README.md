@@ -1,4 +1,4 @@
-# Simulando-ataque-brute-force-com-Medusa
+# Simulando ataque brute force com Medusa
 
 
 > Laboratório: Bruteforce com Medusa contra Metasploitable 2
