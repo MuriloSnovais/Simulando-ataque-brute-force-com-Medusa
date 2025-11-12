@@ -25,3 +25,20 @@
 
 ![Nmap — portas e serviços identificados](images/Escaneando%20maquina%20vunenavel%20com%20NMAP.png "Nmap scan")
 *Figura 2 — Resultado do scan Nmap (ex.: portas 21, 22, 80, 139, 445 com versões de serviços).*
+
+**Comando usado:**
+
+```bash
+nmap -sV -p 192.168.56.103
+
+````
+
+## 3) Conectando no FTP sem saber a senha
+
+![Conectando na maquina sem conhecimento da senha](images/Conectando%20o%20FTP%20na%20maquina%20vulneravel.png)
+
+**Comando usado:**
+
+```bash
+ftp 192.168.56.103
+````
