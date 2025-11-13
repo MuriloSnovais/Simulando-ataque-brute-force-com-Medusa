@@ -14,9 +14,6 @@
 *Captura da máquina Metasploitable 2 utilizada no laboratório.*
 
 
----
-
-
 ## 2) Reconhecimento — Nmap
 
 
